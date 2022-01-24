@@ -1,0 +1,16 @@
+body {background-image: url("https://www.shc.ac.th/img/BG_index.jpg");}
+body {text-align: center;}
+h1 {font-size: 32px; color: rgb(124, 121, 121);}
+h2 {font-size: 28px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color:  rgb(82, 72, 221);}
+
+img {text-align: center;
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    border-radius: 30%;}
+
+
+p {text-align: center; font-size: 21px; color: rgb(101, 94, 201);
+    text-align: center;
+    font-family: inherit;}   
